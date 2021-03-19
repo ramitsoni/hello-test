@@ -4,3 +4,4 @@ cal
 whoami
 ls
 echo "Bye"
+echo "check github"
