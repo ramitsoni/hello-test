@@ -5,3 +5,4 @@ whoami
 ls
 echo "Bye"
 echo "check github"
+mkdir p1
