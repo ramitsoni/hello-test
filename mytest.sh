@@ -6,3 +6,4 @@ whoami
 echo "Bye"
 echo "check github"
 ls
+history
